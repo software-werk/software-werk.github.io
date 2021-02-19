@@ -1,4 +1,4 @@
-baseurl: 'softwarre-werk'
+baseurl: 'software-werk.github.io/'
 exclude: ['README.md']
 permalink: pretty
 title: 'Jekyll Serif'
