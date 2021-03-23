@@ -9,7 +9,7 @@ Haftungsausschluss (Disclaimer)
 Quelle: eRecht24.de
 ## Angaben gemäß § 5 TMG
 
-Jose Antonio Riquelme Garcia
+Jose Riquelme & Jakub Nizelskhdfdhfd UG
 Knotestr. 16
 81479 München
 
